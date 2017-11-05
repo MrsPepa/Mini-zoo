@@ -1,0 +1,46 @@
+#titulo{
+	color: teal;
+	font-size: 3em;
+	font-family: 'Ultra', serif;
+	text-align: center;
+}
+.select-menu{
+	text-align: center;
+}
+#select{
+	background-color: teal;
+	color: #B5F5FF;	
+	border: 0.3em dotted #B95B5B;
+	height: 3em;
+}
+
+hr{
+	width: 70%;
+	background-color: teal;
+	height: 0.3em;
+}
+
+.animal{
+	width: 300px;
+	height: 300px;
+	margin: 0;
+}
+#initial{
+	margin-left: 16%;
+}
+#second{
+	margin-left: 16%;
+}
+
+.sepia{
+	filter: sepia(1);
+	-webkit-filter: sepia(1);
+}
+.blanco-negro{
+	filter: grayscale(100%);
+	-webkit-filter: grayscale(100%);
+}
+.invertir-colores{
+	filter: invert(.8);
+	-webkit-filter: invert(.8);
+}
